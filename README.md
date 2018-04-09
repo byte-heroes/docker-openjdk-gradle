@@ -1,8 +1,8 @@
 # docker-openjdk-gradle
-Dockerfile for the tstrohmeier/openjdk-gradle image
+Dockerfile for the byteheroes/openjdk-gradle image
 
-https://hub.docker.com/r/tstrohmeier/openjdk-gradle/
+https://hub.docker.com/r/byteheroes/openjdk-gradle/
 
 ``` bash
-docker pull tstrohmeier/openjdk-gradle
+docker pull byteheroes/openjdk-gradle
 ```
